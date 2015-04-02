@@ -1,1 +1,1 @@
-This is testing repo. Just learning GIT commits in staging1
+This is testing repo. Just learning GIT commits in staging2
